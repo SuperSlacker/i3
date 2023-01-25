@@ -187,6 +187,7 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 bar {
         status_command i3status
+        position top
 }
 # class                 border  backgr. text    indicator child_border
 client.focused          #00ff00 #111111 #00ff00 #2e9ef4   #00ff00
